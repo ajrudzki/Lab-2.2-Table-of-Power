@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 2.2 Table of Power", "Lab 2.2 Table of Power.csproj", "{2B3A9FFB-56CD-4060-9CB6-D35B90EB4D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3A9FFB-56CD-4060-9CB6-D35B90EB4D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3A9FFB-56CD-4060-9CB6-D35B90EB4D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3A9FFB-56CD-4060-9CB6-D35B90EB4D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3A9FFB-56CD-4060-9CB6-D35B90EB4D86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B647AFB8-C4EC-4D4C-BE28-2E220E1E39FB}
+	EndGlobalSection
+EndGlobal
